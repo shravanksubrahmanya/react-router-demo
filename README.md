@@ -6,18 +6,18 @@ This project demonstrates key React Router concepts through a sample application
 
 The application includes the following pages:
 
-**Home Page:** The landing page of the application.
-**About Page:** Provides information about the project.
-**Contact Page:** Contains contact details or a contact form.
-**User Page:** Displays user data fetched from GitHub using the `useLoaderData` hook from `react-router-dom`.
-**GitHub Page:** Offers additional GitHub related information.
+- **Home Page:** The landing page of the application.
+- **About Page:** Provides information about the project.
+- **Contact Page:** Contains contact details or a contact form.
+- **User Page:** Displays user data fetched from GitHub using the `useLoaderData` hook from `react-router-dom`.
+- **GitHub Page:** Offers additional GitHub related information.
 
 ## Key Features
 
-**Routing:** Utilizes `react-router-dom` for client-side routing.
-**Data Fetching:** Leverages the `useLoaderData` hook to fetch GitHub user data.
-**Fast Development:** Built with Vite for speedy builds and hot module replacement.
-**Modern Styling:** Styled with Tailwind CSS.
+- **Routing:** Utilizes `react-router-dom` for client-side routing.
+- **Data Fetching:** Leverages the `useLoaderData` hook to fetch GitHub user data.
+- **Fast Development:** Built with Vite for speedy builds and hot module replacement.
+- **Modern Styling:** Styled with Tailwind CSS.
 
 ## Installation
 
